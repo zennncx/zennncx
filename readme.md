@@ -48,7 +48,7 @@
     <img src="./assets/discord.svg" height="32" width="32" alt="Discord Bot" >
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/6WVQnPCDPx" target="_blank">
-    <img src="./assets/discord.svg" height="32" width="32" alt="discord" >
+    <img src="https://images-ext-2.discordapp.net/external/ngplAgp7qOB2UffvO_0lEqiWoo0Oqhwn_MLb0jtP5WM/https/cdn.discordapp.com/avatars/932915599141662840/7baa3b0202c79231aa5561c1b6903320.webp" height="32" width="32" alt="discord" >
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
