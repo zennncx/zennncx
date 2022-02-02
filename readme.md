@@ -39,6 +39,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zerox0001&show_icons=true&count_private=true&hide_border=true" alt="github stats" >
   </a>
 </p>
-
-
-<h2 align="center">🤝 Get in touch!</h2>
