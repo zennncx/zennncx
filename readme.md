@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Zero.</h1>
 
-- 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
+- 🔭 I’m currently coding a Discord Moderation bot with advance features
   
 
-- 🌱 I’m currently coding in Javascript   and CSS and HTML..
+- 🌱 I’m currently coding in Javascript
   
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
