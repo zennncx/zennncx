@@ -42,15 +42,3 @@
 
 
 <h2 align="center">🤝 Get in touch!</h2>
-
-<p align="center">
-  <h2 align="center">Discord Bot</h2>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=932915599141662840&permissions=8&scope=bot%20applications.commands" target="_blank">
-    <img src="https://media.discordapp.net/attachments/922753107472027668/938281157785690112/4228_discord_bot_dev.png" height="32" width="32" alt="Discord Bot" >
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <h2 align="center">Discord Server</h2>
-  <a href="https://discord.gg/6WVQnPCDPx" target="_blank">
-    <img src="./assets/discord.svg" height="32" width="32" alt="discord" >
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-</p>
