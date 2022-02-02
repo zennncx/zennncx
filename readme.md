@@ -1,5 +1,21 @@
 <h1 align="center">Hey 👋, I'm Zero.</h1>
-<h3 align="center">Just another boi who loves to create discord bots!</h3>
+
+- 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
+  
+
+- 🌱 I’m currently coding in Javascript   and CSS and HTML..
+  
+
+- ❓  I am in love with coding Discord Bots, I also love helping!.
+  
+
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniket091&style=flat-square&label=profile%20views&color=6366f1" alt="views" />
