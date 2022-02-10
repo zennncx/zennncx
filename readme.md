@@ -8,7 +8,9 @@
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
   
-
+<a href="https://discord.com/users/741226689589411940">
+<img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord"/>
+</a>
   
 
 <br/>  
