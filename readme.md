@@ -7,11 +7,6 @@
   
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
-  
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
-<a href="https://discord.com/users/741226689589411940">
-<img src="https://discord.c99.nl/widget/theme-3/741226689589411940.png" alt="Discord"/>
-</a>
 
 <br/>  
 
@@ -39,5 +34,13 @@
 <p align="center">
   <a href="https://github.com/ZeroX0001/">
     <img src="https://github-readme-stats.vercel.app/api?username=zerox0001&show_icons=true&count_private=true&hide_border=true" alt="github stats" >
+  </a>
+</p>
+
+  <h2 align="center">Discord Status!</h2>
+
+<p align="center">
+<a href="https://discord.com/users/741226689589411940">
+<img src="https://discord.c99.nl/widget/theme-3/741226689589411940.png" alt="Discord"/>
   </a>
 </p>
