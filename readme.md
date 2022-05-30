@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Zero.</h1>
+<h1 align="center">Hey 👋, I'm Zen.</h1>
 
 - 🔭 I’m currently coding a Discord Moderation bot with advance features named DarkMod.
   
@@ -32,7 +32,7 @@
 <h2 align="center">Github Stats!</h2>
 
 <p align="center">
-  <a href="https://github.com/ZeroX0001/">
+  <a href="https://github.com/ZenNotFound/">
     <img src="https://github-readme-stats.vercel.app/api?username=zerox0001&show_icons=true&count_private=true&hide_border=true" alt="github stats" >
   </a>
 </p>
