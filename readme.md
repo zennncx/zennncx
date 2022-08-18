@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/ZenNotFound/">
-    <img src="https://github-readme-stats.vercel.app/api?username=zerox0001&show_icons=true&count_private=true&hide_border=true" alt="github stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=zennncx&show_icons=true&count_private=true&hide_border=true" alt="github stats" >
   </a>
 </p>
 
