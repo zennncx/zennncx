@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋, I'm Zen.</h1>
 
-- 🔭 I’m currently coding a Discord Moderation bot with advance features named DarkMod.
+- 🔭 I’m NOT currently ACTIVE in Developing
   
 
-- 🌱 I’m currently coding in Javascript and learning to create a bot website!
+- 🌱 I’m NOT currently ACTIVE in Developing
   
 
-- ❓  I am in love with coding Discord Bots, I also love helping users!
+- ❓  I am in love with creating/developing Discord Bots, I also love helping users!
 
 <br/>  
 
