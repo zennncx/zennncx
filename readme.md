@@ -1,13 +1,5 @@
 <h1 align="center">Hey 👋, I'm Zen.</h1>
 
-- 🔭 NOT ACTIVE
-  
-
-- 🌱 NOT ACTIVE
-  
-
-- ❓  I am in love with creating/developing Discord Bots, I also love helping users!
-
 <br/>  
 
 
